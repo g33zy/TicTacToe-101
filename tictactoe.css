@@ -1,6 +1,10 @@
 .jumbotron {
   margin: 5% auto;
-  margin-left: 43%;
+  margin-left: auto;
+  display: block;
+
+  text-align: center;
+  
 }
 
 td {
@@ -14,3 +18,12 @@ td {
 table {
   margin: auto auto;
 }
+
+/* h1 {
+  display: flex;
+  text-align: center;
+
+  
+  
+} */
+
